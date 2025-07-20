@@ -28,7 +28,7 @@ def display_menu(page):
 """
     menu1 = f"""
 {ascii_art}
-{purple}[ {white}AirFlow - Developed by Deobfy{purple} ]──[ {white}NEXT {white}N {purple}]─{reset}
+{purple}[ {white}AirFlow - Developed by AirFlow{purple} ]──[ {white}NEXT {white}N {purple}]─{reset}
 {purple}┌──────────────────┬────────────────────────┬──────────────────────────┐{reset}
 {white}    CORE NUKING            INFO TOOLS               ROBLOX TOOLS         {reset}
 {purple}├──────────────────┼────────────────────────┼──────────────────────────┤{reset}
@@ -41,7 +41,7 @@ def display_menu(page):
 
     menu2 = f"""
 {ascii_art}
-{purple}[ {white}AirFlow - Developed by Deobfy{purple} ]──[ {white}BACK {white}B {purple}]─{reset}
+{purple}[ {white}AirFlow - Developed by AirFlow{purple} ]──[ {white}BACK {white}B {purple}]─{reset}
 {purple}┌──────────────────┬───────────────────────┬──────────────────────┐{reset}
 {white}       OSINT              GENERATORS               UTILITIES            {reset}
 {purple}├──────────────────┼───────────────────────┼──────────────────────┤{reset}
