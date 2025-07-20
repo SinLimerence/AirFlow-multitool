@@ -25,3 +25,8 @@ A powerful Discord multitool written in Python that provides various utilities a
 2. Run install.bat.
 3. Run run.bat.
 
+## ⚖️ Legal Notice
+This software is provided "as is" without warranty of any kind. I am is not responsible for any misuse of this tool. By using this software, you agree that:
+- You will only use it for legal, educational purposes
+- You have permission to test on any systems you use this tool on
+- You understand the potential legal consequences of misuse
