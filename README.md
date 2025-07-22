@@ -8,7 +8,7 @@
 
 
 # Discord MultiTool - AirFlow
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A powerful Discord multitool written in Python that provides various utilities and automation features. 
