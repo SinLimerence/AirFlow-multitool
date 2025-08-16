@@ -17,7 +17,7 @@ A powerful Discord multitool written in Python that provides various utilities a
 
  
   
- 
+  
   
 
 ## Installation
