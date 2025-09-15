@@ -1,3 +1,6 @@
+# Author: Ryōka
+# Contact: @ryukakoi on discord
+
 import os
 import time
 from colorama import init, Fore, Style
@@ -163,3 +166,4 @@ if __name__ == "__main__":
     print(f"{purple}[BOOTING]{white} AirFlow - Discord Neural-Net Disruptor Online")
     time.sleep(1)
     main()
+
